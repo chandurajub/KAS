@@ -1,0 +1,1 @@
+variable "CIDR_BLOCK_VPC" {}
